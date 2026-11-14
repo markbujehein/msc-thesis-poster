@@ -1,14 +1,13 @@
 #!/usr/bin/env python3
-"""Generate the DesignCraft script for poster and run it. Coordinates are mm, type is pt."""
-import json, shutil, subprocess, sys, tempfile
+"""Modern poster: generate the DesignCraft script and run it. Coordinates are mm, type is pt."""
+import json, subprocess, sys
 from pathlib import Path
 
-HERE = Path(__file__).resolve().parent
-A = HERE / "assets"
-OUT = HERE / "build"  # intermediates (bleed PDF, script, log, preview), overwritten each run, never deleted
+SRC = Path(__file__).resolve().parent  # this script, assets/, and the editable poster.designcraft / .idml
+ROOT = SRC.parent
+A = SRC / "assets"
+OUT = ROOT / "build"  # every build output: PDFs, preview, script, log. Overwritten each run
 OUT.mkdir(exist_ok=True)
-SRC = HERE / "source"  # editable files
-SRC.mkdir(exist_ok=True)
 L = []
 
 
@@ -71,9 +70,10 @@ style("StepN", "Black", 30, W, align="center", lead=30)
 style("Big", "Black", 72, "KU red", lead=72)
 style("BigS", "Regular", 26, "Ink", lead=31)
 style("Pill", "Black", 14, "Ink", align="center", track=80)
-style("FootBig", "Bold", 56, W, lead=60)
+style("FootBig", "Black", 92, W, lead=92)
 style("FootSm", "Regular", 30, W, lead=36)
-style("Refs", "Regular", 16, W, lead=21)
+style("Refs", "Regular", 15, W, lead=19)
+style("FootCap", "Regular", 22, W, align="right", lead=28, after=3)
 
 # ---- header
 rect(-3, -3, 844, 222, "KU red")
@@ -138,7 +138,7 @@ text(28, 850, 600, 860, "Data reduction performed with the Mantid framework [4].
 # ---- results
 text(28, 870, 330, 880, "PRELIMINARY RESULTS", "Kick")
 rect(150, 868, 236, 882, "Gold", r=7)
-text(150, 871, 236, 881, "WORK IN PROGRESS", "Pill")
+text(150, 872.06, 236, 882.06, "WORK IN PROGRESS", "Pill")
 text(28, 884, 230, 902, "AFGA vs. measurement", "H3")
 img(A / "afga_fit.png", 28, 906, 228, 1068)
 text(28, 1070, 228, 1094, "Thymol, 300 K. AFGA (A = 0.946) against a fitted sigmoidal curve.", "Cap")
@@ -154,15 +154,17 @@ text(623, 884, 813, 902, "Thymol vs. p-cymene", "H3")
 img(A / "pairwise.png", 623, 906, 813, 1068)
 text(623, 1070, 813, 1094, "Pair-wise comparison at 10 K and 300 K.", "Cap")
 
-# ---- footer
+# ---- footer: call to action, references, QR code to the academic page
 rect(-3, 1100, 844, 1192, "KU red")
 img(A / "me.png", 28, 1106, 106, 1184, mode="fillProportionally", shape="ellipse")
 cmd("object.stroke", swatch="Gold", weight=6)
-text(122, 1116, 570, 1138, "Talk to me, or help me find a PhD scholarship", "FootBig")
-text(122, 1141, 570, 1160, "mark.sorensen@nbi.ku.dk · Bordallo Group, Niels Bohr Institute", "FootSm")
-text(580, 1110, 813, 1180,
-     "[1] Romanelli et al., Meas. Sci. Technol. 28, 095501 (2017)\n[2] Romanelli et al., J. Phys.: Condens. Matter 33, 285901 (2021)\n"
-     "[3] Krzystyniak et al., Phys. Scr. 98, 025707 (2023)\n[4] Arnold et al., Nucl. Instrum. Methods A 764, 156 (2014)", "Refs")
+text(122, 1105, 557, 1141, "Hire a physicist.", "FootBig")
+text(122, 1143, 557, 1158, "PhD position wanted. Modelling, experiments, fitting, Bayesian analysis.", "FootSm")
+text(122, 1162, 337, 1184, "[1] Romanelli et al., Meas. Sci. Technol. 28, 095501 (2017)\n[2] Romanelli et al., J. Phys.: Condens. Matter 33, 285901 (2021)", "Refs")
+text(342, 1162, 557, 1184, "[3] Krzystyniak et al., Phys. Scr. 98, 025707 (2023)\n[4] Arnold et al., Nucl. Instrum. Methods A 764, 156 (2014)", "Refs")
+text(562, 1126, 724, 1172, "Scan to see my work and contact me\nmark.sorensen@nbi.ku.dk\nmarkbujehein.github.io", "FootCap")
+rect(733, 1106, 813, 1186, W, r=6)
+img(A / "qr_modern.pdf", 733, 1106, 813, 1186)
 
 # p-cymene: the locant p is always italic
 for ps, fam, st in [("Body", "Inter", "Italic"), ("Bullet", "Inter", "Italic"), ("BigS", "Inter", "Italic"),
@@ -170,34 +172,34 @@ for ps, fam, st in [("Body", "Inter", "Italic"), ("Bullet", "Inter", "Italic"), 
     cmd("find.change", find="p(?=-cymene)", grep=True, caseSensitive=True, scope="document", findFormat={"paraStyle": ps},
         change="", attrs={"fontFamily": fam, "fontStyle": st})
 
-cmd("file.save", path=str(SRC / "poster"))
-cmd("file.exportIdml", path=str(SRC / "poster.idml"))
-cmd("file.exportPdf", path=str(OUT / "poster_trim.pdf"))
-cmd("file.exportPdf", path=str(OUT / "poster_bleed.pdf"), bleed=True)
+cmd("file.save", path=str(SRC / "modern"))
+cmd("file.exportIdml", path=str(SRC / "modern.idml"))
+cmd("file.exportPdf", path=str(OUT / "modern_trim.pdf"))
+cmd("file.exportPdf", path=str(OUT / "modern_bleed.pdf"), bleed=True)
 cmd("document.inspect")
 cmd("font.list")
 
-script = OUT / "build.txt"
+script = OUT / "modern_build.txt"
 script.write_text("\n".join(L) + "\n")
-r = subprocess.run(["designcraft-cli", "script", str(script), "--export", str(OUT / "preview.png")], capture_output=True, text=True)
-(OUT / "run.log").write_text(r.stdout + r.stderr)
+r = subprocess.run(["designcraft-cli", "script", str(script), "--export", str(OUT / "modern_preview.png")], capture_output=True, text=True)
+(OUT / "modern_run.log").write_text(r.stdout + r.stderr)
 dc_rc = r.returncode
+from PIL import Image  # the preview is only for the README: shrink it
+im = Image.open(OUT / "modern_preview.png"); im.thumbnail((1400, 2000)); im.save(OUT / "modern_preview.png", optimize=True)
 print(dc_rc, len(L), "commands")
 
-# ---- print copy with trim marks (HP poster printer; marks widen the page by 36 pt a side, trim box stays A0)
-PRINT = HERE  # print PDF sits next to the poster
-src, dst = OUT / "poster_bleed.pdf", PRINT / "poster_print.pdf"
+# ---- print PDF: the bleed PDF plus trim marks (HP poster printer; marks widen the page by 36 pt a side, trim box stays A0)
+src, dst = OUT / "modern_bleed.pdf", OUT / "modern_print.pdf"
 dst.unlink(missing_ok=True)
 steps = [{"tool": "doc_open", "args": {"path": str(src)}},
          {"tool": "doc_printer_marks", "args": {"doc": 1, "trim": True, "bleed": True, "registration": False, "color_bars": False,
-                                                 "page_info": True, "make_room": 36, "line_weight": 0.5, "label": "ESS DMSC poster, A0 trim and bleed marks"}},
+                                                 "page_info": True, "make_room": 36, "line_weight": 0.5, "label": "ESS DMSC poster (modern), A0 trim and bleed marks"}},
          {"tool": "doc_save", "args": {"doc": 1, "path": str(dst), "full": True}}]
-(OUT / "steps.json").write_text(json.dumps(steps))
-r = subprocess.run(["pdfcraft-cli", "run", "--script", str(OUT / "steps.json"), "--root", str(HERE)], capture_output=True, text=True)
+(OUT / "modern_steps.json").write_text(json.dumps(steps))
+r = subprocess.run(["pdfcraft-cli", "run", "--script", str(OUT / "modern_steps.json"), "--root", str(ROOT)], capture_output=True, text=True)
 print("print copy:", dst, "rc", r.returncode, r.stderr[-300:])
+src.unlink(missing_ok=True)  # the bleed PDF only feeds the print PDF; export it on request
 
-# the deliverable: the NBI poster at poster/poster.pdf (A0, no marks)
-shutil.copy(OUT / "poster_trim.pdf", HERE / "poster.pdf")
-log = (OUT / "run.log").read_text()
+log = (OUT / "modern_run.log").read_text()
 if dc_rc or r.returncode or '"overset": true' in log:
     print("CHECK THE BUILD: overset text or errors; intermediates kept in", OUT); sys.exit(1)

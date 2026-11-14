@@ -1,4 +1,4 @@
-# Printing poster_print.pdf on an HP DesignJet (914 mm / 36 in roll)
+# Printing build/*_print.pdf on an HP DesignJet (914 mm / 36 in roll)
 
 One PDF serves both paper types: RGB, 3 mm bleed, trim and bleed marks. The paper choice is made in the printer driver, not in the file.
 These are general DesignJet settings, not measured for your printer. Menu names vary by model. If a setting is missing, pick the closest one.

@@ -22,21 +22,22 @@ style.paragraph.create {"name": "StepN", "chars": {"fontFamily": "Inter Display"
 style.paragraph.create {"name": "Big", "chars": {"fontFamily": "Inter Display", "fontStyle": "Black", "size": 72, "fill": "KU red", "leading": {"kind": "points", "value": 72}}, "para": {"align": "left", "hyphenate": false, "spaceAfter": 0.0}}
 style.paragraph.create {"name": "BigS", "chars": {"fontFamily": "Inter", "fontStyle": "Regular", "size": 26, "fill": "Ink", "leading": {"kind": "points", "value": 31}}, "para": {"align": "left", "hyphenate": false, "spaceAfter": 0.0}}
 style.paragraph.create {"name": "Pill", "chars": {"fontFamily": "Inter Display", "fontStyle": "Black", "size": 14, "fill": "Ink", "tracking": 80}, "para": {"align": "center", "hyphenate": false, "spaceAfter": 0.0}}
-style.paragraph.create {"name": "FootBig", "chars": {"fontFamily": "Inter Display", "fontStyle": "Bold", "size": 56, "fill": "[Paper]", "leading": {"kind": "points", "value": 60}}, "para": {"align": "left", "hyphenate": false, "spaceAfter": 0.0}}
+style.paragraph.create {"name": "FootBig", "chars": {"fontFamily": "Inter Display", "fontStyle": "Black", "size": 92, "fill": "[Paper]", "leading": {"kind": "points", "value": 92}}, "para": {"align": "left", "hyphenate": false, "spaceAfter": 0.0}}
 style.paragraph.create {"name": "FootSm", "chars": {"fontFamily": "Inter", "fontStyle": "Regular", "size": 30, "fill": "[Paper]", "leading": {"kind": "points", "value": 36}}, "para": {"align": "left", "hyphenate": false, "spaceAfter": 0.0}}
-style.paragraph.create {"name": "Refs", "chars": {"fontFamily": "Inter", "fontStyle": "Regular", "size": 16, "fill": "[Paper]", "leading": {"kind": "points", "value": 21}}, "para": {"align": "left", "hyphenate": false, "spaceAfter": 0.0}}
+style.paragraph.create {"name": "Refs", "chars": {"fontFamily": "Inter", "fontStyle": "Regular", "size": 15, "fill": "[Paper]", "leading": {"kind": "points", "value": 19}}, "para": {"align": "left", "hyphenate": false, "spaceAfter": 0.0}}
+style.paragraph.create {"name": "FootCap", "chars": {"fontFamily": "Inter", "fontStyle": "Regular", "size": 22, "fill": "[Paper]", "leading": {"kind": "points", "value": 28}}, "para": {"align": "right", "hyphenate": false, "spaceAfter": 8.5}}
 frame.create {"rect": [-8.503937007874017, -8.503937007874017, 2392.44094488189, 629.2913385826772], "shape": "rectangle", "content": "unassigned"}
 object.fill {"swatch": "KU red"}
 object.stroke {"swatch": "[None]"}
 frame.create {"rect": [79.37007874015748, 22.67716535433071, 504.5669291338583, 324.53447135901905], "shape": "rectangle", "content": "graphic"}
-file.place {"path": "/home/mark/Projects/msc-thesis-poster/poster/assets/nbi_logo.pdf"}
+file.place {"path": "/home/mark/Projects/msc-thesis-poster/src/assets/nbi_logo.pdf"}
 object.fit {"mode": "fitProportionally"}
 frame.create {"rect": [1950.2362204724411, 45.35433070866142, 2304.5669291338586, 243.77952755905514], "shape": "rectangle", "content": "unassigned"}
 object.fill {"swatch": "[Paper]"}
 object.stroke {"swatch": "[None]"}
 object.cornerOptions {"shape": "rounded", "size": 17.01}
 frame.create {"rect": [1978.5826771653544, 68.03149606299213, 2276.2204724409453, 221.10236220472444], "shape": "rectangle", "content": "graphic"}
-file.place {"path": "/home/mark/Projects/msc-thesis-poster/poster/assets/isis.png"}
+file.place {"path": "/home/mark/Projects/msc-thesis-poster/src/assets/isis.png"}
 object.fit {"mode": "fitProportionally"}
 frame.create {"rect": [79.37007874015748, 331.65354330708664, 2304.5669291338586, 527.244094488189], "content": "text", "text": "Can a simple model predict how neutrons cross new moderator materials?", "caret": true}
 edit.selectAll {}
@@ -65,7 +66,7 @@ object.fill {"swatch": "[Paper]"}
 object.stroke {"swatch": "[None]"}
 object.cornerOptions {"shape": "rounded", "size": 8.5}
 frame.create {"rect": [1213.228346456693, 700.1574803149607, 2270.5511811023625, 1179.212598425197], "shape": "rectangle", "content": "graphic"}
-file.place {"path": "/home/mark/Projects/msc-thesis-poster/poster/assets/vesuvio.png"}
+file.place {"path": "/home/mark/Projects/msc-thesis-poster/src/assets/vesuvio.png"}
 object.fit {"mode": "fitProportionally"}
 frame.create {"rect": [1201.8897637795276, 1199.0551181102364, 2281.8897637795276, 1272.755905511811], "content": "text", "text": "Measured on VESUVIO at ISIS (UK). Image credit: STFC. a) incident monitor, b) transmitted monitor, c–d) detectors, e) gold foils.", "caret": true}
 edit.selectAll {}
@@ -137,7 +138,7 @@ object.fill {"swatch": "[Paper]"}
 object.stroke {"swatch": "[None]"}
 object.cornerOptions {"shape": "rounded", "size": 8.5}
 frame.create {"rect": [107.71653543307087, 2006.929133858268, 592.4409448818898, 2313.0708661417325], "shape": "rectangle", "content": "graphic"}
-file.place {"path": "/home/mark/Projects/msc-thesis-poster/poster/assets/monitor.png"}
+file.place {"path": "/home/mark/Projects/msc-thesis-poster/src/assets/monitor.png"}
 object.fit {"mode": "fitProportionally"}
 frame.create {"rect": [102.0472440944882, 2330.0787401574808, 598.1102362204725, 2386.7716535433074], "content": "text", "text": "Monitor data", "caret": true}
 edit.selectAll {}
@@ -163,7 +164,7 @@ object.fill {"swatch": "[Paper]"}
 object.stroke {"swatch": "[None]"}
 object.cornerOptions {"shape": "rounded", "size": 8.5}
 frame.create {"rect": [668.976377952756, 2006.929133858268, 1153.7007874015749, 2313.0708661417325], "shape": "rectangle", "content": "graphic"}
-file.place {"path": "/home/mark/Projects/msc-thesis-poster/poster/assets/transmission.png"}
+file.place {"path": "/home/mark/Projects/msc-thesis-poster/src/assets/transmission.png"}
 object.fit {"mode": "fitProportionally"}
 frame.create {"rect": [663.3070866141733, 2330.0787401574808, 1159.3700787401576, 2386.7716535433074], "content": "text", "text": "Transmission", "caret": true}
 edit.selectAll {}
@@ -189,7 +190,7 @@ object.fill {"swatch": "[Paper]"}
 object.stroke {"swatch": "[None]"}
 object.cornerOptions {"shape": "rounded", "size": 8.5}
 frame.create {"rect": [1230.2362204724411, 2006.929133858268, 1714.96062992126, 2313.0708661417325], "shape": "rectangle", "content": "graphic"}
-file.place {"path": "/home/mark/Projects/msc-thesis-poster/poster/assets/xsec.png"}
+file.place {"path": "/home/mark/Projects/msc-thesis-poster/src/assets/xsec.png"}
 object.fit {"mode": "fitProportionally"}
 frame.create {"rect": [1224.5669291338584, 2330.0787401574808, 1720.6299212598426, 2386.7716535433074], "content": "text", "text": "Total cross section", "caret": true}
 edit.selectAll {}
@@ -232,14 +233,14 @@ frame.create {"rect": [425.19685039370086, 2460.4724409448822, 668.976377952756,
 object.fill {"swatch": "Gold"}
 object.stroke {"swatch": "[None]"}
 object.cornerOptions {"shape": "rounded", "size": 19.84}
-frame.create {"rect": [425.19685039370086, 2468.976377952756, 668.976377952756, 2497.3228346456694], "content": "text", "text": "WORK IN PROGRESS", "caret": true}
+frame.create {"rect": [425.19685039370086, 2471.9811023622046, 668.976377952756, 2500.3275590551184], "content": "text", "text": "WORK IN PROGRESS", "caret": true}
 edit.selectAll {}
 style.paragraph.apply {"name": "Pill"}
 frame.create {"rect": [79.37007874015748, 2505.8267716535433, 651.968503937008, 2556.8503937007877], "content": "text", "text": "AFGA vs. measurement", "caret": true}
 edit.selectAll {}
 style.paragraph.apply {"name": "H3"}
 frame.create {"rect": [79.37007874015748, 2568.188976377953, 646.2992125984252, 3027.4015748031497], "shape": "rectangle", "content": "graphic"}
-file.place {"path": "/home/mark/Projects/msc-thesis-poster/poster/assets/afga_fit.png"}
+file.place {"path": "/home/mark/Projects/msc-thesis-poster/src/assets/afga_fit.png"}
 object.fit {"mode": "fitProportionally"}
 frame.create {"rect": [79.37007874015748, 3033.0708661417325, 646.2992125984252, 3101.1023622047246], "content": "text", "text": "Thymol, 300 K. AFGA (A = 0.946) against a fitted sigmoidal curve.", "caret": true}
 edit.selectAll {}
@@ -258,7 +259,7 @@ frame.create {"rect": [1765.9842519685042, 2505.8267716535433, 2304.566929133858
 edit.selectAll {}
 style.paragraph.apply {"name": "H3"}
 frame.create {"rect": [1765.9842519685042, 2568.188976377953, 2304.5669291338586, 3027.4015748031497], "shape": "rectangle", "content": "graphic"}
-file.place {"path": "/home/mark/Projects/msc-thesis-poster/poster/assets/pairwise.png"}
+file.place {"path": "/home/mark/Projects/msc-thesis-poster/src/assets/pairwise.png"}
 object.fit {"mode": "fitProportionally"}
 frame.create {"rect": [1765.9842519685042, 3033.0708661417325, 2304.5669291338586, 3101.1023622047246], "content": "text", "text": "Pair-wise comparison at 10 K and 300 K.", "caret": true}
 edit.selectAll {}
@@ -267,26 +268,39 @@ frame.create {"rect": [-8.503937007874017, 3118.110236220473, 2392.44094488189, 
 object.fill {"swatch": "KU red"}
 object.stroke {"swatch": "[None]"}
 frame.create {"rect": [79.37007874015748, 3135.1181102362207, 300.4724409448819, 3356.2204724409453], "shape": "ellipse", "content": "graphic"}
-file.place {"path": "/home/mark/Projects/msc-thesis-poster/poster/assets/me.png"}
+file.place {"path": "/home/mark/Projects/msc-thesis-poster/src/assets/me.png"}
 object.fit {"mode": "fillProportionally"}
 object.stroke {"swatch": "Gold", "weight": 6}
-frame.create {"rect": [345.82677165354335, 3163.464566929134, 1615.748031496063, 3225.826771653544], "content": "text", "text": "Talk to me, or help me find a PhD scholarship", "caret": true}
+frame.create {"rect": [345.82677165354335, 3132.2834645669295, 1578.8976377952758, 3234.3307086614177], "content": "text", "text": "Hire a physicist.", "caret": true}
 edit.selectAll {}
 style.paragraph.apply {"name": "FootBig"}
-frame.create {"rect": [345.82677165354335, 3234.3307086614177, 1615.748031496063, 3288.188976377953], "content": "text", "text": "mark.sorensen@nbi.ku.dk · Bordallo Group, Niels Bohr Institute", "caret": true}
+frame.create {"rect": [345.82677165354335, 3240.0000000000005, 1578.8976377952758, 3282.5196850393704], "content": "text", "text": "PhD position wanted. Modelling, experiments, fitting, Bayesian analysis.", "caret": true}
 edit.selectAll {}
 style.paragraph.apply {"name": "FootSm"}
-frame.create {"rect": [1644.0944881889766, 3146.456692913386, 2304.5669291338586, 3344.88188976378], "content": "text", "text": "[1] Romanelli et al., Meas. Sci. Technol. 28, 095501 (2017)\n[2] Romanelli et al., J. Phys.: Condens. Matter 33, 285901 (2021)\n[3] Krzystyniak et al., Phys. Scr. 98, 025707 (2023)\n[4] Arnold et al., Nucl. Instrum. Methods A 764, 156 (2014)", "caret": true}
+frame.create {"rect": [345.82677165354335, 3293.858267716536, 955.2755905511812, 3356.2204724409453], "content": "text", "text": "[1] Romanelli et al., Meas. Sci. Technol. 28, 095501 (2017)\n[2] Romanelli et al., J. Phys.: Condens. Matter 33, 285901 (2021)", "caret": true}
 edit.selectAll {}
 style.paragraph.apply {"name": "Refs"}
+frame.create {"rect": [969.4488188976379, 3293.858267716536, 1578.8976377952758, 3356.2204724409453], "content": "text", "text": "[3] Krzystyniak et al., Phys. Scr. 98, 025707 (2023)\n[4] Arnold et al., Nucl. Instrum. Methods A 764, 156 (2014)", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "Refs"}
+frame.create {"rect": [1593.0708661417325, 3191.8110236220477, 2052.2834645669295, 3322.204724409449], "content": "text", "text": "Scan to see my work and contact me\nmark.sorensen@nbi.ku.dk\nmarkbujehein.github.io", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "FootCap"}
+frame.create {"rect": [2077.7952755905512, 3135.1181102362207, 2304.5669291338586, 3361.889763779528], "shape": "rectangle", "content": "unassigned"}
+object.fill {"swatch": "[Paper]"}
+object.stroke {"swatch": "[None]"}
+object.cornerOptions {"shape": "rounded", "size": 17.01}
+frame.create {"rect": [2077.7952755905512, 3135.1181102362207, 2304.5669291338586, 3361.889763779528], "shape": "rectangle", "content": "graphic"}
+file.place {"path": "/home/mark/Projects/msc-thesis-poster/src/assets/qr_modern.pdf"}
+object.fit {"mode": "fitProportionally"}
 find.change {"find": "p(?=-cymene)", "grep": true, "caseSensitive": true, "scope": "document", "findFormat": {"paraStyle": "Body"}, "change": "", "attrs": {"fontFamily": "Inter", "fontStyle": "Italic"}}
 find.change {"find": "p(?=-cymene)", "grep": true, "caseSensitive": true, "scope": "document", "findFormat": {"paraStyle": "Bullet"}, "change": "", "attrs": {"fontFamily": "Inter", "fontStyle": "Italic"}}
 find.change {"find": "p(?=-cymene)", "grep": true, "caseSensitive": true, "scope": "document", "findFormat": {"paraStyle": "BigS"}, "change": "", "attrs": {"fontFamily": "Inter", "fontStyle": "Italic"}}
 find.change {"find": "p(?=-cymene)", "grep": true, "caseSensitive": true, "scope": "document", "findFormat": {"paraStyle": "CardQ"}, "change": "", "attrs": {"fontFamily": "Inter Display", "fontStyle": "SemiBold Italic"}}
 find.change {"find": "p(?=-cymene)", "grep": true, "caseSensitive": true, "scope": "document", "findFormat": {"paraStyle": "H3"}, "change": "", "attrs": {"fontFamily": "Inter Display", "fontStyle": "ExtraBold Italic"}}
-file.save {"path": "/home/mark/Projects/msc-thesis-poster/poster/source/poster"}
-file.exportIdml {"path": "/home/mark/Projects/msc-thesis-poster/poster/source/poster.idml"}
-file.exportPdf {"path": "/home/mark/Projects/msc-thesis-poster/poster/build/poster_trim.pdf"}
-file.exportPdf {"path": "/home/mark/Projects/msc-thesis-poster/poster/build/poster_bleed.pdf", "bleed": true}
+file.save {"path": "/home/mark/Projects/msc-thesis-poster/src/modern"}
+file.exportIdml {"path": "/home/mark/Projects/msc-thesis-poster/src/modern.idml"}
+file.exportPdf {"path": "/home/mark/Projects/msc-thesis-poster/build/modern_trim.pdf"}
+file.exportPdf {"path": "/home/mark/Projects/msc-thesis-poster/build/modern_bleed.pdf", "bleed": true}
 document.inspect {}
 font.list {}
