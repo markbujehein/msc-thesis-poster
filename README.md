@@ -42,7 +42,11 @@ Each script writes its own set to `build/`, prefixed `modern_` or `classic_`:
 
 The script exits non-zero if text is overset or a tool fails.
 
+The PDFs are not tracked in git. They are attached to the [releases](https://github.com/markbujehein/msc-thesis-poster/releases).
+
 ## Design
+
+The design is based on the templates and style guide at the [KU Design Guide](https://www.ku.dk/designguide/en/templates) ([Danish](https://www.ku.dk/designguide/skabeloner)).
 
 Each poster has its own palette and type. The image is drawn by `src/make_palette.py`, with the fonts converted to outlines so it looks the same without them installed.
 
