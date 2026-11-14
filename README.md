@@ -46,7 +46,10 @@ The PDFs are not tracked in git. They are attached to the [releases](https://git
 
 ## Design
 
-The design is based on the University of Copenhagen templates and style guide: [Templates](https://www.ku.dk/designguide/en/templates) (English) and [Skabeloner](https://www.ku.dk/designguide/skabeloner) (Danish), both part of the design guide ([Design guide](https://www.ku.dk/designguide/en) in English, [Designguide](https://www.ku.dk/designguide/) in Danish).
+Design based on:
+
+- [Templates](https://www.ku.dk/designguide/en/templates) ([Skabeloner](https://www.ku.dk/designguide/skabeloner))
+- [Design Guide](https://www.ku.dk/designguide/en) ([Designguide](https://www.ku.dk/designguide/))
 
 Each poster has its own palette and type. The image is drawn by `src/make_palette.py`, with the fonts converted to outlines so it looks the same without them installed.
 
