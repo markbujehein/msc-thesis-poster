@@ -1,0 +1,3200 @@
+{
+  "completed": 292,
+  "results": [
+    {
+      "index": 1
+    },
+    {
+      "name": "KU red"
+    },
+    {
+      "name": "Teal"
+    },
+    {
+      "name": "Gold"
+    },
+    {
+      "name": "Soft"
+    },
+    {
+      "name": "Ink"
+    },
+    {
+      "name": "Grey"
+    },
+    {
+      "name": "H1"
+    },
+    {
+      "name": "H2"
+    },
+    {
+      "name": "H3"
+    },
+    {
+      "name": "Kick"
+    },
+    {
+      "name": "Body"
+    },
+    {
+      "name": "Bullet"
+    },
+    {
+      "name": "Cap"
+    },
+    {
+      "name": "Auth"
+    },
+    {
+      "name": "Affil"
+    },
+    {
+      "name": "CardQ"
+    },
+    {
+      "name": "CardN"
+    },
+    {
+      "name": "StepH"
+    },
+    {
+      "name": "StepP"
+    },
+    {
+      "name": "StepN"
+    },
+    {
+      "name": "Big"
+    },
+    {
+      "name": "BigS"
+    },
+    {
+      "name": "Pill"
+    },
+    {
+      "name": "FootBig"
+    },
+    {
+      "name": "FootSm"
+    },
+    {
+      "name": "Refs"
+    },
+    {
+      "id": 8
+    },
+    {
+      "changed": 1
+    },
+    {
+      "changed": 1
+    },
+    {
+      "id": 9
+    },
+    {
+      "asset": 10,
+      "id": 9
+    },
+    null,
+    {
+      "id": 11
+    },
+    {
+      "changed": 1
+    },
+    {
+      "changed": 1
+    },
+    {
+      "changed": 1
+    },
+    {
+      "id": 12
+    },
+    {
+      "asset": 13,
+      "id": 12
+    },
+    null,
+    {
+      "id": 14,
+      "story": 15
+    },
+    null,
+    null,
+    {
+      "id": 16,
+      "story": 17
+    },
+    null,
+    null,
+    {
+      "id": 18,
+      "story": 19
+    },
+    null,
+    null,
+    {
+      "id": 20,
+      "story": 21
+    },
+    null,
+    null,
+    {
+      "id": 22,
+      "story": 23
+    },
+    null,
+    null,
+    {
+      "id": 24,
+      "story": 25
+    },
+    null,
+    null,
+    {
+      "id": 26
+    },
+    {
+      "changed": 1
+    },
+    {
+      "changed": 1
+    },
+    {
+      "changed": 1
+    },
+    {
+      "id": 27
+    },
+    {
+      "changed": 1
+    },
+    {
+      "changed": 1
+    },
+    {
+      "changed": 1
+    },
+    {
+      "id": 28
+    },
+    {
+      "asset": 29,
+      "id": 28
+    },
+    null,
+    {
+      "id": 30,
+      "story": 31
+    },
+    null,
+    null,
+    {
+      "id": 32
+    },
+    {
+      "changed": 1
+    },
+    {
+      "changed": 1
+    },
+    {
+      "changed": 1
+    },
+    {
+      "id": 33,
+      "story": 34
+    },
+    null,
+    null,
+    {
+      "id": 35,
+      "story": 36
+    },
+    null,
+    null,
+    {
+      "id": 37
+    },
+    {
+      "changed": 1
+    },
+    {
+      "changed": 1
+    },
+    {
+      "changed": 1
+    },
+    {
+      "id": 38,
+      "story": 39
+    },
+    null,
+    null,
+    {
+      "id": 40,
+      "story": 41
+    },
+    null,
+    null,
+    {
+      "id": 42
+    },
+    {
+      "changed": 1
+    },
+    {
+      "changed": 1
+    },
+    {
+      "changed": 1
+    },
+    {
+      "id": 43,
+      "story": 44
+    },
+    null,
+    null,
+    {
+      "id": 45,
+      "story": 46
+    },
+    null,
+    null,
+    {
+      "id": 47
+    },
+    {
+      "changed": 1
+    },
+    {
+      "changed": 1
+    },
+    {
+      "changed": 1
+    },
+    {
+      "id": 48,
+      "story": 49
+    },
+    null,
+    null,
+    {
+      "id": 50,
+      "story": 51
+    },
+    null,
+    null,
+    {
+      "id": 52,
+      "story": 53
+    },
+    null,
+    null,
+    {
+      "id": 54,
+      "story": 55
+    },
+    null,
+    null,
+    {
+      "id": 56
+    },
+    {
+      "changed": 1
+    },
+    {
+      "changed": 1
+    },
+    {
+      "changed": 1
+    },
+    {
+      "id": 57
+    },
+    {
+      "changed": 1
+    },
+    {
+      "changed": 1
+    },
+    {
+      "id": 58,
+      "story": 59
+    },
+    null,
+    null,
+    {
+      "id": 60,
+      "story": 61
+    },
+    null,
+    null,
+    {
+      "id": 62,
+      "story": 63
+    },
+    null,
+    null,
+    {
+      "id": 64
+    },
+    {
+      "changed": 1
+    },
+    {
+      "changed": 1
+    },
+    {
+      "changed": 1
+    },
+    {
+      "id": 65
+    },
+    {
+      "asset": 66,
+      "id": 65
+    },
+    null,
+    {
+      "id": 67,
+      "story": 68
+    },
+    null,
+    null,
+    {
+      "id": 69
+    },
+    {
+      "changed": 1
+    },
+    {
+      "changed": 1
+    },
+    {
+      "changed": 1
+    },
+    {
+      "id": 70
+    },
+    {
+      "changed": 1
+    },
+    {
+      "changed": 1
+    },
+    {
+      "id": 71,
+      "story": 72
+    },
+    null,
+    null,
+    {
+      "id": 73,
+      "story": 74
+    },
+    null,
+    null,
+    {
+      "id": 75,
+      "story": 76
+    },
+    null,
+    null,
+    {
+      "id": 77
+    },
+    {
+      "changed": 1
+    },
+    {
+      "changed": 1
+    },
+    {
+      "changed": 1
+    },
+    {
+      "id": 78
+    },
+    {
+      "asset": 79,
+      "id": 78
+    },
+    null,
+    {
+      "id": 80,
+      "story": 81
+    },
+    null,
+    null,
+    {
+      "id": 82
+    },
+    {
+      "changed": 1
+    },
+    {
+      "changed": 1
+    },
+    {
+      "changed": 1
+    },
+    {
+      "id": 83
+    },
+    {
+      "changed": 1
+    },
+    {
+      "changed": 1
+    },
+    {
+      "id": 84,
+      "story": 85
+    },
+    null,
+    null,
+    {
+      "id": 86,
+      "story": 87
+    },
+    null,
+    null,
+    {
+      "id": 88,
+      "story": 89
+    },
+    null,
+    null,
+    {
+      "id": 90
+    },
+    {
+      "changed": 1
+    },
+    {
+      "changed": 1
+    },
+    {
+      "changed": 1
+    },
+    {
+      "id": 91
+    },
+    {
+      "asset": 92,
+      "id": 91
+    },
+    null,
+    {
+      "id": 93,
+      "story": 94
+    },
+    null,
+    null,
+    {
+      "id": 95
+    },
+    {
+      "changed": 1
+    },
+    {
+      "changed": 1
+    },
+    {
+      "changed": 1
+    },
+    {
+      "id": 96
+    },
+    {
+      "changed": 1
+    },
+    {
+      "changed": 1
+    },
+    {
+      "id": 97,
+      "story": 98
+    },
+    null,
+    null,
+    {
+      "id": 99,
+      "story": 100
+    },
+    null,
+    null,
+    {
+      "id": 101,
+      "story": 102
+    },
+    null,
+    null,
+    {
+      "id": 103,
+      "story": 104
+    },
+    null,
+    null,
+    {
+      "id": 105,
+      "story": 106
+    },
+    null,
+    null,
+    {
+      "id": 107,
+      "story": 108
+    },
+    null,
+    null,
+    {
+      "id": 109,
+      "story": 110
+    },
+    null,
+    null,
+    {
+      "id": 111,
+      "story": 112
+    },
+    null,
+    null,
+    {
+      "id": 113,
+      "story": 114
+    },
+    null,
+    null,
+    {
+      "id": 115
+    },
+    {
+      "changed": 1
+    },
+    {
+      "changed": 1
+    },
+    {
+      "changed": 1
+    },
+    {
+      "id": 116,
+      "story": 117
+    },
+    null,
+    null,
+    {
+      "id": 118,
+      "story": 119
+    },
+    null,
+    null,
+    {
+      "id": 120
+    },
+    {
+      "asset": 121,
+      "id": 120
+    },
+    null,
+    {
+      "id": 122,
+      "story": 123
+    },
+    null,
+    null,
+    {
+      "id": 124
+    },
+    {
+      "changed": 1
+    },
+    {
+      "changed": 1
+    },
+    {
+      "changed": 1
+    },
+    {
+      "id": 125,
+      "story": 126
+    },
+    null,
+    null,
+    {
+      "id": 127,
+      "story": 128
+    },
+    null,
+    null,
+    {
+      "id": 129,
+      "story": 130
+    },
+    null,
+    null,
+    {
+      "id": 131
+    },
+    {
+      "asset": 132,
+      "id": 131
+    },
+    null,
+    {
+      "id": 133,
+      "story": 134
+    },
+    null,
+    null,
+    {
+      "id": 135
+    },
+    {
+      "changed": 1
+    },
+    {
+      "changed": 1
+    },
+    {
+      "id": 136
+    },
+    {
+      "asset": 137,
+      "id": 136
+    },
+    null,
+    {
+      "changed": 1
+    },
+    {
+      "id": 138,
+      "story": 139
+    },
+    null,
+    null,
+    {
+      "id": 140,
+      "story": 141
+    },
+    null,
+    null,
+    {
+      "id": 142,
+      "story": 143
+    },
+    null,
+    null,
+    {
+      "count": 1
+    },
+    {
+      "count": 2
+    },
+    {
+      "count": 1
+    },
+    {
+      "count": 1
+    },
+    {
+      "count": 1
+    },
+    {
+      "bytes": 5478028,
+      "path": "/home/mark/Projects/msc-thesis-poster/poster/source/poster.designcraft"
+    },
+    {
+      "bytes": 5452547,
+      "path": "/home/mark/Projects/msc-thesis-poster/poster/source/poster.idml"
+    },
+    {
+      "bytes": 5826427,
+      "pages": 1,
+      "path": "/home/mark/Projects/msc-thesis-poster/poster/build/poster_trim.pdf",
+      "warnings": []
+    },
+    {
+      "bytes": 5826481,
+      "pages": 1,
+      "path": "/home/mark/Projects/msc-thesis-poster/poster/build/poster_bleed.pdf",
+      "warnings": []
+    },
+    {
+      "activeLayer": 1,
+      "canUndo": true,
+      "characterStyles": [
+        "[None]"
+      ],
+      "dirty": false,
+      "layers": [
+        {
+          "color": [
+            43,
+            155,
+            255
+          ],
+          "id": 1,
+          "locked": false,
+          "name": "Layer 1",
+          "printable": true,
+          "showGuides": true,
+          "suppressWrapWhenHidden": false,
+          "visible": true
+        }
+      ],
+      "pageCount": 1,
+      "paragraphStyles": [
+        "[No Paragraph Style]",
+        "[Basic Paragraph]",
+        "H1",
+        "H2",
+        "H3",
+        "Kick",
+        "Body",
+        "Bullet",
+        "Cap",
+        "Auth",
+        "Affil",
+        "CardQ",
+        "CardN",
+        "StepH",
+        "StepP",
+        "StepN",
+        "Big",
+        "BigS",
+        "Pill",
+        "FootBig",
+        "FootSm",
+        "Refs"
+      ],
+      "parents": [
+        {
+          "basedOn": null,
+          "id": 4,
+          "items": 0,
+          "label": "A-Parent"
+        }
+      ],
+      "path": "/home/mark/Projects/msc-thesis-poster/poster/source/poster.designcraft",
+      "selection": {
+        "content": false,
+        "items": [],
+        "text": {
+          "anchor": 0,
+          "focus": 238,
+          "frame": 142,
+          "story": 143
+        }
+      },
+      "settings": {
+        "facingPages": true,
+        "intent": "print",
+        "pageHeight": 3370.08,
+        "pageWidth": 2383.94
+      },
+      "spreads": [
+        {
+          "index": 0,
+          "items": [
+            {
+              "bounds": [
+                -8.503937007874017,
+                -8.503937007874017,
+                2392.44094488189,
+                629.2913385826772
+              ],
+              "fill": "KU red",
+              "hidden": false,
+              "id": 8,
+              "kind": "<rectangle>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "asset": 10,
+              "bounds": [
+                79.37007874015748,
+                22.67716535433071,
+                504.5669291338583,
+                324.53447135901905
+              ],
+              "fill": "[None]",
+              "hidden": false,
+              "id": 9,
+              "kind": "<image>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                1950.2362204724411,
+                45.35433070866142,
+                2304.5669291338586,
+                243.77952755905514
+              ],
+              "fill": "[Paper]",
+              "hidden": false,
+              "id": 11,
+              "kind": "<rectangle>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "asset": 13,
+              "bounds": [
+                1978.5826771653544,
+                68.03149606299213,
+                2276.2204724409453,
+                221.10236220472444
+              ],
+              "fill": "[None]",
+              "hidden": false,
+              "id": 12,
+              "kind": "<image>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                79.37007874015748,
+                331.65354330708664,
+                2304.5669291338586,
+                527.244094488189
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 14,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 15,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                79.37007874015748,
+                541.4173228346457,
+                2304.5669291338586,
+                572.5984251968505
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 16,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 17,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                79.37007874015748,
+                575.4330708661417,
+                2304.5669291338586,
+                623.6220472440946
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 18,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 19,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                79.37007874015748,
+                674.6456692913387,
+                1133.8582677165355,
+                705.8267716535433
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 20,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 21,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                79.37007874015748,
+                711.4960629921261,
+                1133.8582677165355,
+                833.3858267716537
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 22,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 23,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                79.37007874015748,
+                844.724409448819,
+                1133.8582677165355,
+                1281.2598425196852
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 24,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 25,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                1179.212598425197,
+                666.1417322834646,
+                2304.5669291338586,
+                1281.2598425196852
+              ],
+              "fill": "Soft",
+              "hidden": false,
+              "id": 26,
+              "kind": "<rectangle>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                1201.8897637795276,
+                688.8188976377953,
+                2281.8897637795276,
+                1190.5511811023623
+              ],
+              "fill": "[Paper]",
+              "hidden": false,
+              "id": 27,
+              "kind": "<rectangle>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "asset": 29,
+              "bounds": [
+                1213.228346456693,
+                700.1574803149607,
+                2270.5511811023625,
+                1179.212598425197
+              ],
+              "fill": "[None]",
+              "hidden": false,
+              "id": 28,
+              "kind": "<image>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                1201.8897637795276,
+                1199.0551181102364,
+                2281.8897637795276,
+                1272.755905511811
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 30,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 31,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                79.37007874015748,
+                1315.2755905511813,
+                614.4094488188977,
+                1593.0708661417325
+              ],
+              "fill": "KU red",
+              "hidden": false,
+              "id": 32,
+              "kind": "<rectangle>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                104.88188976377954,
+                1332.2834645669293,
+                192.75590551181105,
+                1394.6456692913387
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 33,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 34,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                104.88188976377954,
+                1400.3149606299214,
+                588.8976377952756,
+                1587.4015748031497
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 35,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 36,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                642.7559055118111,
+                1315.2755905511813,
+                1177.7952755905512,
+                1593.0708661417325
+              ],
+              "fill": "KU red",
+              "hidden": false,
+              "id": 37,
+              "kind": "<rectangle>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                668.2677165354331,
+                1332.2834645669293,
+                756.1417322834646,
+                1394.6456692913387
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 38,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 39,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                668.2677165354331,
+                1400.3149606299214,
+                1152.2834645669293,
+                1587.4015748031497
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 40,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 41,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                1206.1417322834648,
+                1315.2755905511813,
+                1741.181102362205,
+                1593.0708661417325
+              ],
+              "fill": "KU red",
+              "hidden": false,
+              "id": 42,
+              "kind": "<rectangle>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                1231.6535433070867,
+                1332.2834645669293,
+                1319.5275590551182,
+                1394.6456692913387
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 43,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 44,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                1231.6535433070867,
+                1400.3149606299214,
+                1715.6692913385828,
+                1587.4015748031497
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 45,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 46,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                1769.5275590551182,
+                1315.2755905511813,
+                2304.5669291338586,
+                1593.0708661417325
+              ],
+              "fill": "KU red",
+              "hidden": false,
+              "id": 47,
+              "kind": "<rectangle>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                1795.0393700787404,
+                1332.2834645669293,
+                1882.913385826772,
+                1394.6456692913387
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 48,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 49,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                1795.0393700787404,
+                1400.3149606299214,
+                2279.0551181102364,
+                1587.4015748031497
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 50,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 51,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                79.37007874015748,
+                1627.0866141732286,
+                1133.8582677165355,
+                1655.4330708661419
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 52,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 53,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                79.37007874015748,
+                1661.1023622047246,
+                2304.5669291338586,
+                1717.7952755905515
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 54,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 55,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                79.37007874015748,
+                1751.8110236220475,
+                620.7874015748032,
+                2398.110236220473
+              ],
+              "fill": "Soft",
+              "hidden": false,
+              "id": 56,
+              "kind": "<rectangle>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                102.0472440944882,
+                1731.968503937008,
+                150.23622047244095,
+                1780.1574803149608
+              ],
+              "fill": "Teal",
+              "hidden": false,
+              "id": 57,
+              "kind": "<ellipse>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                102.0472440944882,
+                1740.472440944882,
+                150.23622047244095,
+                1774.488188976378
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 58,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 59,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                102.0472440944882,
+                1791.496062992126,
+                598.1102362204725,
+                1870.8661417322837
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 60,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 61,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                102.0472440944882,
+                1876.5354330708662,
+                598.1102362204725,
+                1989.92125984252
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 62,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 63,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                102.0472440944882,
+                2001.2598425196852,
+                598.1102362204725,
+                2318.7401574803152
+              ],
+              "fill": "[Paper]",
+              "hidden": false,
+              "id": 64,
+              "kind": "<rectangle>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "asset": 66,
+              "bounds": [
+                107.71653543307087,
+                2006.929133858268,
+                592.4409448818898,
+                2313.0708661417325
+              ],
+              "fill": "[None]",
+              "hidden": false,
+              "id": 65,
+              "kind": "<image>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                102.0472440944882,
+                2330.0787401574808,
+                598.1102362204725,
+                2386.7716535433074
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 67,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 68,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                640.6299212598426,
+                1751.8110236220475,
+                1182.0472440944884,
+                2398.110236220473
+              ],
+              "fill": "Soft",
+              "hidden": false,
+              "id": 69,
+              "kind": "<rectangle>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                663.3070866141734,
+                1731.968503937008,
+                711.4960629921261,
+                1780.1574803149608
+              ],
+              "fill": "Teal",
+              "hidden": false,
+              "id": 70,
+              "kind": "<ellipse>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                663.3070866141733,
+                1740.472440944882,
+                711.4960629921261,
+                1774.488188976378
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 71,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 72,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                663.3070866141733,
+                1791.496062992126,
+                1159.3700787401576,
+                1870.8661417322837
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 73,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 74,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                663.3070866141733,
+                1876.5354330708662,
+                1159.3700787401576,
+                1989.92125984252
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 75,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 76,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                663.3070866141733,
+                2001.2598425196852,
+                1159.3700787401576,
+                2318.7401574803152
+              ],
+              "fill": "[Paper]",
+              "hidden": false,
+              "id": 77,
+              "kind": "<rectangle>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "asset": 79,
+              "bounds": [
+                668.976377952756,
+                2006.929133858268,
+                1153.7007874015749,
+                2313.0708661417325
+              ],
+              "fill": "[None]",
+              "hidden": false,
+              "id": 78,
+              "kind": "<image>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                663.3070866141733,
+                2330.0787401574808,
+                1159.3700787401576,
+                2386.7716535433074
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 80,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 81,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                1201.8897637795276,
+                1751.8110236220475,
+                1743.3070866141734,
+                2398.110236220473
+              ],
+              "fill": "Soft",
+              "hidden": false,
+              "id": 82,
+              "kind": "<rectangle>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                1224.5669291338584,
+                1731.968503937008,
+                1272.755905511811,
+                1780.1574803149608
+              ],
+              "fill": "Teal",
+              "hidden": false,
+              "id": 83,
+              "kind": "<ellipse>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                1224.5669291338584,
+                1740.472440944882,
+                1272.755905511811,
+                1774.488188976378
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 84,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 85,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                1224.5669291338584,
+                1791.496062992126,
+                1720.6299212598426,
+                1870.8661417322837
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 86,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 87,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                1224.5669291338584,
+                1876.5354330708662,
+                1720.6299212598426,
+                1989.92125984252
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 88,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 89,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                1224.5669291338584,
+                2001.2598425196852,
+                1720.6299212598426,
+                2318.7401574803152
+              ],
+              "fill": "[Paper]",
+              "hidden": false,
+              "id": 90,
+              "kind": "<rectangle>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "asset": 92,
+              "bounds": [
+                1230.2362204724411,
+                2006.929133858268,
+                1714.96062992126,
+                2313.0708661417325
+              ],
+              "fill": "[None]",
+              "hidden": false,
+              "id": 91,
+              "kind": "<image>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                1224.5669291338584,
+                2330.0787401574808,
+                1720.6299212598426,
+                2386.7716535433074
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 93,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 94,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                1763.1496062992128,
+                1751.8110236220475,
+                2304.5669291338586,
+                2398.110236220473
+              ],
+              "fill": "Soft",
+              "hidden": false,
+              "id": 95,
+              "kind": "<rectangle>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                1785.8267716535436,
+                1731.968503937008,
+                1834.0157480314963,
+                1780.1574803149608
+              ],
+              "fill": "Teal",
+              "hidden": false,
+              "id": 96,
+              "kind": "<ellipse>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                1785.8267716535436,
+                1740.472440944882,
+                1834.0157480314963,
+                1774.488188976378
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 97,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 98,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                1785.8267716535436,
+                1791.496062992126,
+                2281.8897637795276,
+                1870.8661417322837
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 99,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 100,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                1785.8267716535436,
+                1876.5354330708662,
+                2281.8897637795276,
+                1989.92125984252
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 101,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 102,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                1785.8267716535436,
+                2012.5984251968507,
+                2281.8897637795276,
+                2097.6377952755906
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 103,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 104,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                1785.8267716535436,
+                2103.3070866141734,
+                2281.8897637795276,
+                2154.3307086614177
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 105,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 106,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                1785.8267716535436,
+                2177.0078740157483,
+                2281.8897637795276,
+                2262.0472440944886
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 107,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 108,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                1785.8267716535436,
+                2267.716535433071,
+                2281.8897637795276,
+                2318.7401574803152
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 109,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 110,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                79.37007874015748,
+                2409.448818897638,
+                1700.7874015748034,
+                2437.7952755905512
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 111,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 112,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                79.37007874015748,
+                2466.141732283465,
+                935.4330708661419,
+                2494.4881889763783
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 113,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 114,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                425.19685039370086,
+                2460.4724409448822,
+                668.976377952756,
+                2500.157480314961
+              ],
+              "fill": "Gold",
+              "hidden": false,
+              "id": 115,
+              "kind": "<rectangle>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                425.19685039370086,
+                2468.976377952756,
+                668.976377952756,
+                2497.3228346456694
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 116,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 117,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                79.37007874015748,
+                2505.8267716535433,
+                651.968503937008,
+                2556.8503937007877
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 118,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 119,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "asset": 121,
+              "bounds": [
+                79.37007874015748,
+                2568.188976377953,
+                646.2992125984252,
+                3027.4015748031497
+              ],
+              "fill": "[None]",
+              "hidden": false,
+              "id": 120,
+              "kind": "<image>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                79.37007874015748,
+                3033.0708661417325,
+                646.2992125984252,
+                3101.1023622047246
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 122,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 123,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                680.3149606299213,
+                2505.8267716535433,
+                1729.1338582677167,
+                3101.1023622047246
+              ],
+              "fill": "Soft",
+              "hidden": false,
+              "id": 124,
+              "kind": "<rectangle>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                714.3307086614174,
+                2528.5039370078744,
+                1700.7874015748034,
+                2559.685039370079
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 125,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 126,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                714.3307086614174,
+                2568.188976377953,
+                1700.7874015748034,
+                3089.7637795275596
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 127,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 128,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                1765.9842519685042,
+                2505.8267716535433,
+                2304.5669291338586,
+                2556.8503937007877
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 129,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 130,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "asset": 132,
+              "bounds": [
+                1765.9842519685042,
+                2568.188976377953,
+                2304.5669291338586,
+                3027.4015748031497
+              ],
+              "fill": "[None]",
+              "hidden": false,
+              "id": 131,
+              "kind": "<image>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                1765.9842519685042,
+                3033.0708661417325,
+                2304.5669291338586,
+                3101.1023622047246
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 133,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 134,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                -8.503937007874017,
+                3118.110236220473,
+                2392.44094488189,
+                3378.897637795276
+              ],
+              "fill": "KU red",
+              "hidden": false,
+              "id": 135,
+              "kind": "<rectangle>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "asset": 137,
+              "bounds": [
+                79.3700787401575,
+                3135.11811023622,
+                300.4724409448819,
+                3356.2204724409457
+              ],
+              "fill": "[None]",
+              "hidden": false,
+              "id": 136,
+              "kind": "<image>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "stroke": {
+                "swatch": "Gold",
+                "weight": 6.0
+              }
+            },
+            {
+              "bounds": [
+                345.82677165354335,
+                3163.464566929134,
+                1615.748031496063,
+                3225.826771653544
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 138,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 139,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                345.82677165354335,
+                3234.3307086614177,
+                1615.748031496063,
+                3288.188976377953
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 140,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 141,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            },
+            {
+              "bounds": [
+                1644.0944881889766,
+                3146.456692913386,
+                2304.5669291338586,
+                3344.88188976378
+              ],
+              "columnRule": false,
+              "columns": 1,
+              "fill": "[None]",
+              "hidden": false,
+              "id": 142,
+              "kind": "<text frame>",
+              "layer": 1,
+              "locked": false,
+              "name": "",
+              "story": 143,
+              "stroke": {
+                "swatch": "[None]",
+                "weight": 1.0
+              }
+            }
+          ],
+          "pages": [
+            {
+              "bounds": [
+                0.0,
+                0.0,
+                2383.94,
+                3370.08
+              ],
+              "columnRects": [
+                [
+                  0.0,
+                  0.0,
+                  2383.94,
+                  3370.08
+                ]
+              ],
+              "columns": 1,
+              "customColumns": false,
+              "gutter": 12.0,
+              "index": 0,
+              "margins": {
+                "bottom": 0.0,
+                "inside": 0.0,
+                "outside": 0.0,
+                "top": 0.0
+              },
+              "name": "1",
+              "parent": "A-Parent",
+              "side": "right"
+            }
+          ]
+        }
+      ],
+      "stories": [
+        {
+          "frames": [
+            14
+          ],
+          "id": 15,
+          "length": 70,
+          "lines": 2,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "Can a simple model predict how neutrons cross new moderator materials?"
+        },
+        {
+          "frames": [
+            16
+          ],
+          "id": 17,
+          "length": 82,
+          "lines": 1,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "Mark B.H. Sørensen¹, M. Krzystyniak², G. Škoro², S. Rudić², H.N. Bordallo¹"
+        },
+        {
+          "frames": [
+            18
+          ],
+          "id": 19,
+          "length": 120,
+          "lines": 1,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "¹ Niels Bohr Institute, University of Copenhagen · ² ISIS Neutron and Muon Sourc"
+        },
+        {
+          "frames": [
+            20
+          ],
+          "id": 21,
+          "length": 14,
+          "lines": 1,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "WHY IT MATTERS"
+        },
+        {
+          "frames": [
+            22
+          ],
+          "id": 23,
+          "length": 43,
+          "lines": 2,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "Better moderators make better neutron beams"
+        },
+        {
+          "frames": [
+            24
+          ],
+          "id": 25,
+          "length": 371,
+          "lines": 7,
+          "overset": false,
+          "paragraphs": 2,
+          "preview": "Liquid hydrogen needs continuous ortho–para conversion. Solid methane breaks dow"
+        },
+        {
+          "frames": [
+            30
+          ],
+          "id": 31,
+          "length": 131,
+          "lines": 2,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "Measured on VESUVIO at ISIS (UK). Image credit: STFC. a) incident monitor, b) tr"
+        },
+        {
+          "frames": [
+            33
+          ],
+          "id": 34,
+          "length": 1,
+          "lines": 1,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "1"
+        },
+        {
+          "frames": [
+            35
+          ],
+          "id": 36,
+          "length": 66,
+          "lines": 3,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "How accurately can VESUVIO transmission measure the cross section?"
+        },
+        {
+          "frames": [
+            38
+          ],
+          "id": 39,
+          "length": 1,
+          "lines": 1,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "2"
+        },
+        {
+          "frames": [
+            40
+          ],
+          "id": 41,
+          "length": 40,
+          "lines": 2,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "How well does the AFGA model predict it?"
+        },
+        {
+          "frames": [
+            43
+          ],
+          "id": 44,
+          "length": 1,
+          "lines": 1,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "3"
+        },
+        {
+          "frames": [
+            45
+          ],
+          "id": 46,
+          "length": 58,
+          "lines": 2,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "What explains the differences between thymol and p-cymene?"
+        },
+        {
+          "frames": [
+            48
+          ],
+          "id": 49,
+          "length": 1,
+          "lines": 1,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "4"
+        },
+        {
+          "frames": [
+            50
+          ],
+          "id": 51,
+          "length": 45,
+          "lines": 2,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "Are they suitable cold or thermal moderators?"
+        },
+        {
+          "frames": [
+            52
+          ],
+          "id": 53,
+          "length": 37,
+          "lines": 1,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "HOW WE GOT FROM RAW COUNTS TO PHYSICS"
+        },
+        {
+          "frames": [
+            54
+          ],
+          "id": 55,
+          "length": 39,
+          "lines": 1,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "Four steps, from beam monitors to barns"
+        },
+        {
+          "frames": [
+            58
+          ],
+          "id": 59,
+          "length": 1,
+          "lines": 1,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "1"
+        },
+        {
+          "frames": [
+            60
+          ],
+          "id": 61,
+          "length": 14,
+          "lines": 1,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "Count neutrons"
+        },
+        {
+          "frames": [
+            62
+          ],
+          "id": 63,
+          "length": 78,
+          "lines": 3,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "Two beam monitors count neutrons before and after the sample, by arrival time."
+        },
+        {
+          "frames": [
+            67
+          ],
+          "id": 68,
+          "length": 12,
+          "lines": 1,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "Monitor data"
+        },
+        {
+          "frames": [
+            71
+          ],
+          "id": 72,
+          "length": 1,
+          "lines": 1,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "2"
+        },
+        {
+          "frames": [
+            73
+          ],
+          "id": 74,
+          "length": 17,
+          "lines": 1,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "Compare the beams"
+        },
+        {
+          "frames": [
+            75
+          ],
+          "id": 76,
+          "length": 81,
+          "lines": 2,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "Dividing “after” by “before” gives the fraction that survives the sample."
+        },
+        {
+          "frames": [
+            80
+          ],
+          "id": 81,
+          "length": 12,
+          "lines": 1,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "Transmission"
+        },
+        {
+          "frames": [
+            84
+          ],
+          "id": 85,
+          "length": 1,
+          "lines": 1,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "3"
+        },
+        {
+          "frames": [
+            86
+          ],
+          "id": 87,
+          "length": 28,
+          "lines": 1,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "Turn it into a cross section"
+        },
+        {
+          "frames": [
+            88
+          ],
+          "id": 89,
+          "length": 94,
+          "lines": 3,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "Fewer neutrons through means a bigger target. The log of transmission gives the "
+        },
+        {
+          "frames": [
+            93
+          ],
+          "id": 94,
+          "length": 19,
+          "lines": 1,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "Total cross section"
+        },
+        {
+          "frames": [
+            97
+          ],
+          "id": 98,
+          "length": 1,
+          "lines": 1,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "4"
+        },
+        {
+          "frames": [
+            99
+          ],
+          "id": 100,
+          "length": 18,
+          "lines": 1,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "Anchor it in barns"
+        },
+        {
+          "frames": [
+            101
+          ],
+          "id": 102,
+          "length": 88,
+          "lines": 3,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "At high energy neutrons see free atoms. Matching that known limit gives absolute"
+        },
+        {
+          "frames": [
+            103
+          ],
+          "id": 104,
+          "length": 5,
+          "lines": 1,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "328 b"
+        },
+        {
+          "frames": [
+            105
+          ],
+          "id": 106,
+          "length": 22,
+          "lines": 1,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "thymol free-atom limit"
+        },
+        {
+          "frames": [
+            107
+          ],
+          "id": 108,
+          "length": 5,
+          "lines": 1,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "323 b"
+        },
+        {
+          "frames": [
+            109
+          ],
+          "id": 110,
+          "length": 24,
+          "lines": 1,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "p-cymene free-atom limit"
+        },
+        {
+          "frames": [
+            111
+          ],
+          "id": 112,
+          "length": 55,
+          "lines": 1,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "Data reduction performed with the Mantid framework [4]."
+        },
+        {
+          "frames": [
+            113
+          ],
+          "id": 114,
+          "length": 19,
+          "lines": 1,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "PRELIMINARY RESULTS"
+        },
+        {
+          "frames": [
+            116
+          ],
+          "id": 117,
+          "length": 16,
+          "lines": 1,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "WORK IN PROGRESS"
+        },
+        {
+          "frames": [
+            118
+          ],
+          "id": 119,
+          "length": 20,
+          "lines": 1,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "AFGA vs. measurement"
+        },
+        {
+          "frames": [
+            122
+          ],
+          "id": 123,
+          "length": 65,
+          "lines": 2,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "Thymol, 300 K. AFGA (A = 0.946) against a fitted sigmoidal curve."
+        },
+        {
+          "frames": [
+            125
+          ],
+          "id": 126,
+          "length": 9,
+          "lines": 1,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "TAKE-HOME"
+        },
+        {
+          "frames": [
+            127
+          ],
+          "id": 128,
+          "length": 405,
+          "lines": 9,
+          "overset": false,
+          "paragraphs": 5,
+          "preview": "AFGA overpredicts the cross section by about 4–6 % (13–17 b), almost independent"
+        },
+        {
+          "frames": [
+            129
+          ],
+          "id": 130,
+          "length": 19,
+          "lines": 1,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "Thymol vs. p-cymene"
+        },
+        {
+          "frames": [
+            133
+          ],
+          "id": 134,
+          "length": 39,
+          "lines": 1,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "Pair-wise comparison at 10 K and 300 K."
+        },
+        {
+          "frames": [
+            138
+          ],
+          "id": 139,
+          "length": 45,
+          "lines": 1,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "Talk to me, or help me find a PhD scholarship"
+        },
+        {
+          "frames": [
+            140
+          ],
+          "id": 141,
+          "length": 63,
+          "lines": 1,
+          "overset": false,
+          "paragraphs": 1,
+          "preview": "mark.sorensen@nbi.ku.dk · Bordallo Group, Niels Bohr Institute"
+        },
+        {
+          "frames": [
+            142
+          ],
+          "id": 143,
+          "length": 238,
+          "lines": 4,
+          "overset": false,
+          "paragraphs": 4,
+          "preview": "[1] Romanelli et al., Meas. Sci. Technol. 28, 095501 (2017)\n[2] Romanelli et al."
+        }
+      ],
+      "swatches": [
+        "[None]",
+        "[Registration]",
+        "[Paper]",
+        "[Black]",
+        "C=100 M=0 Y=0 K=0",
+        "C=0 M=100 Y=0 K=0",
+        "C=0 M=0 Y=100 K=0",
+        "C=15 M=100 Y=100 K=0",
+        "C=75 M=5 Y=100 K=0",
+        "C=100 M=90 Y=10 K=0",
+        "KU red",
+        "Teal",
+        "Gold",
+        "Soft",
+        "Ink",
+        "Grey"
+      ],
+      "title": "poster.designcraft",
+      "tool": "selection"
+    },
+    [
+      {
+        "bitmapOnly": false,
+        "characters": 4,
+        "editable": false,
+        "family": "Inter",
+        "fsType": 0,
+        "matchStatus": "exact",
+        "missing": false,
+        "noSubsetting": false,
+        "previewPrint": false,
+        "replacementFamily": "Inter",
+        "replacementStyle": "Italic",
+        "resolvedFamily": "Inter",
+        "resolvedStyle": "Italic",
+        "restrictedLicence": false,
+        "source": "installed",
+        "style": "Italic",
+        "styleMissing": false
+      },
+      {
+        "bitmapOnly": false,
+        "characters": 1869,
+        "editable": false,
+        "family": "Inter",
+        "fsType": 0,
+        "matchStatus": "exact",
+        "missing": false,
+        "noSubsetting": false,
+        "previewPrint": false,
+        "replacementFamily": "Inter",
+        "replacementStyle": "Regular",
+        "resolvedFamily": "Inter",
+        "resolvedStyle": "Regular",
+        "restrictedLicence": false,
+        "source": "bundled",
+        "style": "Regular",
+        "styleMissing": false
+      },
+      {
+        "bitmapOnly": false,
+        "characters": 104,
+        "editable": false,
+        "family": "Inter Display",
+        "fsType": 0,
+        "matchStatus": "exact",
+        "missing": false,
+        "noSubsetting": false,
+        "previewPrint": false,
+        "replacementFamily": "Inter Display",
+        "replacementStyle": "Black",
+        "resolvedFamily": "Inter Display",
+        "resolvedStyle": "Black",
+        "restrictedLicence": false,
+        "source": "installed",
+        "style": "Black",
+        "styleMissing": false
+      },
+      {
+        "bitmapOnly": false,
+        "characters": 275,
+        "editable": false,
+        "family": "Inter Display",
+        "fsType": 0,
+        "matchStatus": "exact",
+        "missing": false,
+        "noSubsetting": false,
+        "previewPrint": false,
+        "replacementFamily": "Inter Display",
+        "replacementStyle": "Bold",
+        "resolvedFamily": "Inter Display",
+        "resolvedStyle": "Bold",
+        "restrictedLicence": false,
+        "source": "installed",
+        "style": "Bold",
+        "styleMissing": false
+      },
+      {
+        "bitmapOnly": false,
+        "characters": 120,
+        "editable": false,
+        "family": "Inter Display",
+        "fsType": 0,
+        "matchStatus": "exact",
+        "missing": false,
+        "noSubsetting": false,
+        "previewPrint": false,
+        "replacementFamily": "Inter Display",
+        "replacementStyle": "ExtraBold",
+        "resolvedFamily": "Inter Display",
+        "resolvedStyle": "ExtraBold",
+        "restrictedLicence": false,
+        "source": "installed",
+        "style": "ExtraBold",
+        "styleMissing": false
+      },
+      {
+        "bitmapOnly": false,
+        "characters": 1,
+        "editable": false,
+        "family": "Inter Display",
+        "fsType": 0,
+        "matchStatus": "exact",
+        "missing": false,
+        "noSubsetting": false,
+        "previewPrint": false,
+        "replacementFamily": "Inter Display",
+        "replacementStyle": "ExtraBold Italic",
+        "resolvedFamily": "Inter Display",
+        "resolvedStyle": "ExtraBold Italic",
+        "restrictedLicence": false,
+        "source": "installed",
+        "style": "ExtraBold Italic",
+        "styleMissing": false
+      },
+      {
+        "bitmapOnly": false,
+        "characters": 208,
+        "editable": false,
+        "family": "Inter Display",
+        "fsType": 0,
+        "matchStatus": "exact",
+        "missing": false,
+        "noSubsetting": false,
+        "previewPrint": false,
+        "replacementFamily": "Inter Display",
+        "replacementStyle": "SemiBold",
+        "resolvedFamily": "Inter Display",
+        "resolvedStyle": "SemiBold",
+        "restrictedLicence": false,
+        "source": "installed",
+        "style": "SemiBold",
+        "styleMissing": false
+      },
+      {
+        "bitmapOnly": false,
+        "characters": 1,
+        "editable": false,
+        "family": "Inter Display",
+        "fsType": 0,
+        "matchStatus": "exact",
+        "missing": false,
+        "noSubsetting": false,
+        "previewPrint": false,
+        "replacementFamily": "Inter Display",
+        "replacementStyle": "SemiBold Italic",
+        "resolvedFamily": "Inter Display",
+        "resolvedStyle": "SemiBold Italic",
+        "restrictedLicence": false,
+        "source": "installed",
+        "style": "SemiBold Italic",
+        "styleMissing": false
+      }
+    ]
+  ]
+}

@@ -1,0 +1,292 @@
+file.new {"width": 2383.94, "height": 3370.08, "units": "points", "margins": 0, "bleed": 8.504, "title": "ESS DMSC School 2026 poster"}
+swatch.create {"name": "KU red", "color": "#901a1e"}
+swatch.create {"name": "Teal", "color": "#0f6b73"}
+swatch.create {"name": "Gold", "color": "#e0a526"}
+swatch.create {"name": "Soft", "color": "#f4efe9"}
+swatch.create {"name": "Ink", "color": "#1c1c1c"}
+swatch.create {"name": "Grey", "color": "#444444"}
+style.paragraph.create {"name": "H1", "chars": {"fontFamily": "Inter Display", "fontStyle": "Black", "size": 92, "fill": "[Paper]", "leading": {"kind": "points", "value": 92}}, "para": {"align": "left", "hyphenate": false, "spaceAfter": 0.0}}
+style.paragraph.create {"name": "H2", "chars": {"fontFamily": "Inter Display", "fontStyle": "ExtraBold", "size": 56, "fill": "KU red", "leading": {"kind": "points", "value": 58}}, "para": {"align": "left", "hyphenate": false, "spaceAfter": 0.0}}
+style.paragraph.create {"name": "H3", "chars": {"fontFamily": "Inter Display", "fontStyle": "ExtraBold", "size": 44, "fill": "KU red", "leading": {"kind": "points", "value": 46}}, "para": {"align": "left", "hyphenate": false, "spaceAfter": 0.0}}
+style.paragraph.create {"name": "Kick", "chars": {"fontFamily": "Inter Display", "fontStyle": "Bold", "size": 24, "fill": "Teal", "tracking": 140}, "para": {"align": "left", "hyphenate": false, "spaceAfter": 0.0}}
+style.paragraph.create {"name": "Body", "chars": {"fontFamily": "Inter", "fontStyle": "Regular", "size": 34, "fill": "Ink", "leading": {"kind": "points", "value": 44}}, "para": {"align": "left", "hyphenate": false, "spaceAfter": 0.0}}
+style.paragraph.create {"name": "Bullet", "chars": {"fontFamily": "Inter", "fontStyle": "Regular", "size": 32, "fill": "Ink", "leading": {"kind": "points", "value": 40}}, "para": {"align": "left", "hyphenate": false, "spaceAfter": 17.01}}
+style.paragraph.create {"name": "Cap", "chars": {"fontFamily": "Inter", "fontStyle": "Regular", "size": 24, "fill": "Grey", "leading": {"kind": "points", "value": 30}}, "para": {"align": "left", "hyphenate": false, "spaceAfter": 0.0}}
+style.paragraph.create {"name": "Auth", "chars": {"fontFamily": "Inter Display", "fontStyle": "Bold", "size": 32, "fill": "[Paper]", "leading": {"kind": "points", "value": 38}}, "para": {"align": "left", "hyphenate": false, "spaceAfter": 0.0}}
+style.paragraph.create {"name": "Affil", "chars": {"fontFamily": "Inter", "fontStyle": "Regular", "size": 22, "fill": "[Paper]", "leading": {"kind": "points", "value": 27}}, "para": {"align": "left", "hyphenate": false, "spaceAfter": 0.0}}
+style.paragraph.create {"name": "CardQ", "chars": {"fontFamily": "Inter Display", "fontStyle": "SemiBold", "size": 32, "fill": "[Paper]", "leading": {"kind": "points", "value": 38}}, "para": {"align": "left", "hyphenate": false, "spaceAfter": 0.0}}
+style.paragraph.create {"name": "CardN", "chars": {"fontFamily": "Inter Display", "fontStyle": "Black", "size": 54, "fill": "Gold", "leading": {"kind": "points", "value": 54}}, "para": {"align": "left", "hyphenate": false, "spaceAfter": 0.0}}
+style.paragraph.create {"name": "StepH", "chars": {"fontFamily": "Inter Display", "fontStyle": "Bold", "size": 32, "fill": "Ink", "leading": {"kind": "points", "value": 34}}, "para": {"align": "left", "hyphenate": false, "spaceAfter": 0.0}}
+style.paragraph.create {"name": "StepP", "chars": {"fontFamily": "Inter", "fontStyle": "Regular", "size": 28, "fill": "Ink", "leading": {"kind": "points", "value": 34}}, "para": {"align": "left", "hyphenate": false, "spaceAfter": 0.0}}
+style.paragraph.create {"name": "StepN", "chars": {"fontFamily": "Inter Display", "fontStyle": "Black", "size": 30, "fill": "[Paper]", "leading": {"kind": "points", "value": 30}}, "para": {"align": "center", "hyphenate": false, "spaceAfter": 0.0}}
+style.paragraph.create {"name": "Big", "chars": {"fontFamily": "Inter Display", "fontStyle": "Black", "size": 72, "fill": "KU red", "leading": {"kind": "points", "value": 72}}, "para": {"align": "left", "hyphenate": false, "spaceAfter": 0.0}}
+style.paragraph.create {"name": "BigS", "chars": {"fontFamily": "Inter", "fontStyle": "Regular", "size": 26, "fill": "Ink", "leading": {"kind": "points", "value": 31}}, "para": {"align": "left", "hyphenate": false, "spaceAfter": 0.0}}
+style.paragraph.create {"name": "Pill", "chars": {"fontFamily": "Inter Display", "fontStyle": "Black", "size": 14, "fill": "Ink", "tracking": 80}, "para": {"align": "center", "hyphenate": false, "spaceAfter": 0.0}}
+style.paragraph.create {"name": "FootBig", "chars": {"fontFamily": "Inter Display", "fontStyle": "Bold", "size": 56, "fill": "[Paper]", "leading": {"kind": "points", "value": 60}}, "para": {"align": "left", "hyphenate": false, "spaceAfter": 0.0}}
+style.paragraph.create {"name": "FootSm", "chars": {"fontFamily": "Inter", "fontStyle": "Regular", "size": 30, "fill": "[Paper]", "leading": {"kind": "points", "value": 36}}, "para": {"align": "left", "hyphenate": false, "spaceAfter": 0.0}}
+style.paragraph.create {"name": "Refs", "chars": {"fontFamily": "Inter", "fontStyle": "Regular", "size": 16, "fill": "[Paper]", "leading": {"kind": "points", "value": 21}}, "para": {"align": "left", "hyphenate": false, "spaceAfter": 0.0}}
+frame.create {"rect": [-8.503937007874017, -8.503937007874017, 2392.44094488189, 629.2913385826772], "shape": "rectangle", "content": "unassigned"}
+object.fill {"swatch": "KU red"}
+object.stroke {"swatch": "[None]"}
+frame.create {"rect": [79.37007874015748, 22.67716535433071, 504.5669291338583, 324.53447135901905], "shape": "rectangle", "content": "graphic"}
+file.place {"path": "/home/mark/Projects/msc-thesis-poster/poster/assets/nbi_logo.pdf"}
+object.fit {"mode": "fitProportionally"}
+frame.create {"rect": [1950.2362204724411, 45.35433070866142, 2304.5669291338586, 243.77952755905514], "shape": "rectangle", "content": "unassigned"}
+object.fill {"swatch": "[Paper]"}
+object.stroke {"swatch": "[None]"}
+object.cornerOptions {"shape": "rounded", "size": 17.01}
+frame.create {"rect": [1978.5826771653544, 68.03149606299213, 2276.2204724409453, 221.10236220472444], "shape": "rectangle", "content": "graphic"}
+file.place {"path": "/home/mark/Projects/msc-thesis-poster/poster/assets/isis.png"}
+object.fit {"mode": "fitProportionally"}
+frame.create {"rect": [79.37007874015748, 331.65354330708664, 2304.5669291338586, 527.244094488189], "content": "text", "text": "Can a simple model predict how neutrons cross new moderator materials?", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "H1"}
+frame.create {"rect": [79.37007874015748, 541.4173228346457, 2304.5669291338586, 572.5984251968505], "content": "text", "text": "Mark B.H. Sørensen¹, M. Krzystyniak², G. Škoro², S. Rudić², H.N. Bordallo¹", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "Auth"}
+frame.create {"rect": [79.37007874015748, 575.4330708661417, 2304.5669291338586, 623.6220472440946], "content": "text", "text": "¹ Niels Bohr Institute, University of Copenhagen · ² ISIS Neutron and Muon Source, Rutherford Appleton Laboratory, UK", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "Affil"}
+frame.create {"rect": [79.37007874015748, 674.6456692913387, 1133.8582677165355, 705.8267716535433], "content": "text", "text": "WHY IT MATTERS", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "Kick"}
+frame.create {"rect": [79.37007874015748, 711.4960629921261, 1133.8582677165355, 833.3858267716537], "content": "text", "text": "Better moderators make better neutron beams", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "H2"}
+frame.create {"rect": [79.37007874015748, 844.724409448819, 1133.8582677165355, 1281.2598425196852], "content": "text", "text": "Liquid hydrogen needs continuous ortho–para conversion. Solid methane breaks down under radiation, limiting its lifetime to about 60 days. Aromatic hydrocarbons are more radiation-stable and are candidate cryogenic moderators.\nThymol (C₁₀H₁₄O) and p-cymene (C₁₀H₁₄) are abundant, low-toxicity candidates. We measured how strongly each scatters neutrons.", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "Body"}
+frame.create {"rect": [1179.212598425197, 666.1417322834646, 2304.5669291338586, 1281.2598425196852], "shape": "rectangle", "content": "unassigned"}
+object.fill {"swatch": "Soft"}
+object.stroke {"swatch": "[None]"}
+object.cornerOptions {"shape": "rounded", "size": 22.68}
+frame.create {"rect": [1201.8897637795276, 688.8188976377953, 2281.8897637795276, 1190.5511811023623], "shape": "rectangle", "content": "unassigned"}
+object.fill {"swatch": "[Paper]"}
+object.stroke {"swatch": "[None]"}
+object.cornerOptions {"shape": "rounded", "size": 8.5}
+frame.create {"rect": [1213.228346456693, 700.1574803149607, 2270.5511811023625, 1179.212598425197], "shape": "rectangle", "content": "graphic"}
+file.place {"path": "/home/mark/Projects/msc-thesis-poster/poster/assets/vesuvio.png"}
+object.fit {"mode": "fitProportionally"}
+frame.create {"rect": [1201.8897637795276, 1199.0551181102364, 2281.8897637795276, 1272.755905511811], "content": "text", "text": "Measured on VESUVIO at ISIS (UK). Image credit: STFC. a) incident monitor, b) transmitted monitor, c–d) detectors, e) gold foils.", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "Cap"}
+frame.create {"rect": [79.37007874015748, 1315.2755905511813, 614.4094488188977, 1593.0708661417325], "shape": "rectangle", "content": "unassigned"}
+object.fill {"swatch": "KU red"}
+object.stroke {"swatch": "[None]"}
+object.cornerOptions {"shape": "rounded", "size": 22.68}
+frame.create {"rect": [104.88188976377954, 1332.2834645669293, 192.75590551181105, 1394.6456692913387], "content": "text", "text": "1", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "CardN"}
+frame.create {"rect": [104.88188976377954, 1400.3149606299214, 588.8976377952756, 1587.4015748031497], "content": "text", "text": "How accurately can VESUVIO transmission measure the cross section?", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "CardQ"}
+frame.create {"rect": [642.7559055118111, 1315.2755905511813, 1177.7952755905512, 1593.0708661417325], "shape": "rectangle", "content": "unassigned"}
+object.fill {"swatch": "KU red"}
+object.stroke {"swatch": "[None]"}
+object.cornerOptions {"shape": "rounded", "size": 22.68}
+frame.create {"rect": [668.2677165354331, 1332.2834645669293, 756.1417322834646, 1394.6456692913387], "content": "text", "text": "2", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "CardN"}
+frame.create {"rect": [668.2677165354331, 1400.3149606299214, 1152.2834645669293, 1587.4015748031497], "content": "text", "text": "How well does the AFGA model predict it?", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "CardQ"}
+frame.create {"rect": [1206.1417322834648, 1315.2755905511813, 1741.181102362205, 1593.0708661417325], "shape": "rectangle", "content": "unassigned"}
+object.fill {"swatch": "KU red"}
+object.stroke {"swatch": "[None]"}
+object.cornerOptions {"shape": "rounded", "size": 22.68}
+frame.create {"rect": [1231.6535433070867, 1332.2834645669293, 1319.5275590551182, 1394.6456692913387], "content": "text", "text": "3", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "CardN"}
+frame.create {"rect": [1231.6535433070867, 1400.3149606299214, 1715.6692913385828, 1587.4015748031497], "content": "text", "text": "What explains the differences between thymol and p-cymene?", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "CardQ"}
+frame.create {"rect": [1769.5275590551182, 1315.2755905511813, 2304.5669291338586, 1593.0708661417325], "shape": "rectangle", "content": "unassigned"}
+object.fill {"swatch": "KU red"}
+object.stroke {"swatch": "[None]"}
+object.cornerOptions {"shape": "rounded", "size": 22.68}
+frame.create {"rect": [1795.0393700787404, 1332.2834645669293, 1882.913385826772, 1394.6456692913387], "content": "text", "text": "4", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "CardN"}
+frame.create {"rect": [1795.0393700787404, 1400.3149606299214, 2279.0551181102364, 1587.4015748031497], "content": "text", "text": "Are they suitable cold or thermal moderators?", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "CardQ"}
+frame.create {"rect": [79.37007874015748, 1627.0866141732286, 1133.8582677165355, 1655.4330708661419], "content": "text", "text": "HOW WE GOT FROM RAW COUNTS TO PHYSICS", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "Kick"}
+frame.create {"rect": [79.37007874015748, 1661.1023622047246, 2304.5669291338586, 1717.7952755905515], "content": "text", "text": "Four steps, from beam monitors to barns", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "H2"}
+frame.create {"rect": [79.37007874015748, 1751.8110236220475, 620.7874015748032, 2398.110236220473], "shape": "rectangle", "content": "unassigned"}
+object.fill {"swatch": "Soft"}
+object.stroke {"swatch": "[None]"}
+object.cornerOptions {"shape": "rounded", "size": 22.68}
+frame.create {"rect": [102.0472440944882, 1731.968503937008, 150.23622047244095, 1780.1574803149608], "shape": "ellipse", "content": "unassigned"}
+object.fill {"swatch": "Teal"}
+object.stroke {"swatch": "[None]"}
+frame.create {"rect": [102.0472440944882, 1740.472440944882, 150.23622047244095, 1774.488188976378], "content": "text", "text": "1", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "StepN"}
+frame.create {"rect": [102.0472440944882, 1791.496062992126, 598.1102362204725, 1870.8661417322837], "content": "text", "text": "Count neutrons", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "StepH"}
+frame.create {"rect": [102.0472440944882, 1876.5354330708662, 598.1102362204725, 1989.92125984252], "content": "text", "text": "Two beam monitors count neutrons before and after the sample, by arrival time.", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "StepP"}
+frame.create {"rect": [102.0472440944882, 2001.2598425196852, 598.1102362204725, 2318.7401574803152], "shape": "rectangle", "content": "unassigned"}
+object.fill {"swatch": "[Paper]"}
+object.stroke {"swatch": "[None]"}
+object.cornerOptions {"shape": "rounded", "size": 8.5}
+frame.create {"rect": [107.71653543307087, 2006.929133858268, 592.4409448818898, 2313.0708661417325], "shape": "rectangle", "content": "graphic"}
+file.place {"path": "/home/mark/Projects/msc-thesis-poster/poster/assets/monitor.png"}
+object.fit {"mode": "fitProportionally"}
+frame.create {"rect": [102.0472440944882, 2330.0787401574808, 598.1102362204725, 2386.7716535433074], "content": "text", "text": "Monitor data", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "Cap"}
+frame.create {"rect": [640.6299212598426, 1751.8110236220475, 1182.0472440944884, 2398.110236220473], "shape": "rectangle", "content": "unassigned"}
+object.fill {"swatch": "Soft"}
+object.stroke {"swatch": "[None]"}
+object.cornerOptions {"shape": "rounded", "size": 22.68}
+frame.create {"rect": [663.3070866141733, 1731.968503937008, 711.4960629921261, 1780.1574803149608], "shape": "ellipse", "content": "unassigned"}
+object.fill {"swatch": "Teal"}
+object.stroke {"swatch": "[None]"}
+frame.create {"rect": [663.3070866141733, 1740.472440944882, 711.4960629921261, 1774.488188976378], "content": "text", "text": "2", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "StepN"}
+frame.create {"rect": [663.3070866141733, 1791.496062992126, 1159.3700787401576, 1870.8661417322837], "content": "text", "text": "Compare the beams", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "StepH"}
+frame.create {"rect": [663.3070866141733, 1876.5354330708662, 1159.3700787401576, 1989.92125984252], "content": "text", "text": "Dividing “after” by “before” gives the fraction that survives the sample.", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "StepP"}
+frame.create {"rect": [663.3070866141733, 2001.2598425196852, 1159.3700787401576, 2318.7401574803152], "shape": "rectangle", "content": "unassigned"}
+object.fill {"swatch": "[Paper]"}
+object.stroke {"swatch": "[None]"}
+object.cornerOptions {"shape": "rounded", "size": 8.5}
+frame.create {"rect": [668.976377952756, 2006.929133858268, 1153.7007874015749, 2313.0708661417325], "shape": "rectangle", "content": "graphic"}
+file.place {"path": "/home/mark/Projects/msc-thesis-poster/poster/assets/transmission.png"}
+object.fit {"mode": "fitProportionally"}
+frame.create {"rect": [663.3070866141733, 2330.0787401574808, 1159.3700787401576, 2386.7716535433074], "content": "text", "text": "Transmission", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "Cap"}
+frame.create {"rect": [1201.8897637795276, 1751.8110236220475, 1743.3070866141734, 2398.110236220473], "shape": "rectangle", "content": "unassigned"}
+object.fill {"swatch": "Soft"}
+object.stroke {"swatch": "[None]"}
+object.cornerOptions {"shape": "rounded", "size": 22.68}
+frame.create {"rect": [1224.5669291338584, 1731.968503937008, 1272.755905511811, 1780.1574803149608], "shape": "ellipse", "content": "unassigned"}
+object.fill {"swatch": "Teal"}
+object.stroke {"swatch": "[None]"}
+frame.create {"rect": [1224.5669291338584, 1740.472440944882, 1272.755905511811, 1774.488188976378], "content": "text", "text": "3", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "StepN"}
+frame.create {"rect": [1224.5669291338584, 1791.496062992126, 1720.6299212598426, 1870.8661417322837], "content": "text", "text": "Turn it into a cross section", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "StepH"}
+frame.create {"rect": [1224.5669291338584, 1876.5354330708662, 1720.6299212598426, 1989.92125984252], "content": "text", "text": "Fewer neutrons through means a bigger target. The log of transmission gives the cross section.", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "StepP"}
+frame.create {"rect": [1224.5669291338584, 2001.2598425196852, 1720.6299212598426, 2318.7401574803152], "shape": "rectangle", "content": "unassigned"}
+object.fill {"swatch": "[Paper]"}
+object.stroke {"swatch": "[None]"}
+object.cornerOptions {"shape": "rounded", "size": 8.5}
+frame.create {"rect": [1230.2362204724411, 2006.929133858268, 1714.96062992126, 2313.0708661417325], "shape": "rectangle", "content": "graphic"}
+file.place {"path": "/home/mark/Projects/msc-thesis-poster/poster/assets/xsec.png"}
+object.fit {"mode": "fitProportionally"}
+frame.create {"rect": [1224.5669291338584, 2330.0787401574808, 1720.6299212598426, 2386.7716535433074], "content": "text", "text": "Total cross section", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "Cap"}
+frame.create {"rect": [1763.1496062992128, 1751.8110236220475, 2304.5669291338586, 2398.110236220473], "shape": "rectangle", "content": "unassigned"}
+object.fill {"swatch": "Soft"}
+object.stroke {"swatch": "[None]"}
+object.cornerOptions {"shape": "rounded", "size": 22.68}
+frame.create {"rect": [1785.8267716535436, 1731.968503937008, 1834.0157480314963, 1780.1574803149608], "shape": "ellipse", "content": "unassigned"}
+object.fill {"swatch": "Teal"}
+object.stroke {"swatch": "[None]"}
+frame.create {"rect": [1785.8267716535436, 1740.472440944882, 1834.0157480314963, 1774.488188976378], "content": "text", "text": "4", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "StepN"}
+frame.create {"rect": [1785.8267716535436, 1791.496062992126, 2281.8897637795276, 1870.8661417322837], "content": "text", "text": "Anchor it in barns", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "StepH"}
+frame.create {"rect": [1785.8267716535436, 1876.5354330708662, 2281.8897637795276, 1989.92125984252], "content": "text", "text": "At high energy neutrons see free atoms. Matching that known limit gives absolute values.", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "StepP"}
+frame.create {"rect": [1785.8267716535436, 2012.5984251968507, 2281.8897637795276, 2097.6377952755906], "content": "text", "text": "328 b", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "Big"}
+frame.create {"rect": [1785.8267716535436, 2103.3070866141734, 2281.8897637795276, 2154.3307086614177], "content": "text", "text": "thymol free-atom limit", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "BigS"}
+frame.create {"rect": [1785.8267716535436, 2177.0078740157483, 2281.8897637795276, 2262.0472440944886], "content": "text", "text": "323 b", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "Big"}
+frame.create {"rect": [1785.8267716535436, 2267.716535433071, 2281.8897637795276, 2318.7401574803152], "content": "text", "text": "p-cymene free-atom limit", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "BigS"}
+frame.create {"rect": [79.37007874015748, 2409.448818897638, 1700.7874015748034, 2437.7952755905512], "content": "text", "text": "Data reduction performed with the Mantid framework [4].", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "Cap"}
+frame.create {"rect": [79.37007874015748, 2466.141732283465, 935.4330708661419, 2494.4881889763783], "content": "text", "text": "PRELIMINARY RESULTS", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "Kick"}
+frame.create {"rect": [425.19685039370086, 2460.4724409448822, 668.976377952756, 2500.157480314961], "shape": "rectangle", "content": "unassigned"}
+object.fill {"swatch": "Gold"}
+object.stroke {"swatch": "[None]"}
+object.cornerOptions {"shape": "rounded", "size": 19.84}
+frame.create {"rect": [425.19685039370086, 2468.976377952756, 668.976377952756, 2497.3228346456694], "content": "text", "text": "WORK IN PROGRESS", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "Pill"}
+frame.create {"rect": [79.37007874015748, 2505.8267716535433, 651.968503937008, 2556.8503937007877], "content": "text", "text": "AFGA vs. measurement", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "H3"}
+frame.create {"rect": [79.37007874015748, 2568.188976377953, 646.2992125984252, 3027.4015748031497], "shape": "rectangle", "content": "graphic"}
+file.place {"path": "/home/mark/Projects/msc-thesis-poster/poster/assets/afga_fit.png"}
+object.fit {"mode": "fitProportionally"}
+frame.create {"rect": [79.37007874015748, 3033.0708661417325, 646.2992125984252, 3101.1023622047246], "content": "text", "text": "Thymol, 300 K. AFGA (A = 0.946) against a fitted sigmoidal curve.", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "Cap"}
+frame.create {"rect": [680.3149606299213, 2505.8267716535433, 1729.1338582677167, 3101.1023622047246], "shape": "rectangle", "content": "unassigned"}
+object.fill {"swatch": "Soft"}
+object.stroke {"swatch": "[None]"}
+object.cornerOptions {"shape": "rounded", "size": 22.68}
+frame.create {"rect": [714.3307086614174, 2528.5039370078744, 1700.7874015748034, 2559.685039370079], "content": "text", "text": "TAKE-HOME", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "Kick"}
+frame.create {"rect": [714.3307086614174, 2568.188976377953, 1700.7874015748034, 3089.7637795275596], "content": "text", "text": "AFGA overpredicts the cross section by about 4–6 % (13–17 b), almost independent of energy.\nAbove about 1 eV, thymol and p-cymene are neutronically equivalent.\nBelow about 25 meV, solid thymol and liquid p-cymene (300 K) differ. Statistics are limited there.\nThe choice between them rests on engineering: phase, radiolytic stability, handling.\nNext: benchmark AFGA against full lattice dynamics (DFT).", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "Bullet"}
+frame.create {"rect": [1765.9842519685042, 2505.8267716535433, 2304.5669291338586, 2556.8503937007877], "content": "text", "text": "Thymol vs. p-cymene", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "H3"}
+frame.create {"rect": [1765.9842519685042, 2568.188976377953, 2304.5669291338586, 3027.4015748031497], "shape": "rectangle", "content": "graphic"}
+file.place {"path": "/home/mark/Projects/msc-thesis-poster/poster/assets/pairwise.png"}
+object.fit {"mode": "fitProportionally"}
+frame.create {"rect": [1765.9842519685042, 3033.0708661417325, 2304.5669291338586, 3101.1023622047246], "content": "text", "text": "Pair-wise comparison at 10 K and 300 K.", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "Cap"}
+frame.create {"rect": [-8.503937007874017, 3118.110236220473, 2392.44094488189, 3378.897637795276], "shape": "rectangle", "content": "unassigned"}
+object.fill {"swatch": "KU red"}
+object.stroke {"swatch": "[None]"}
+frame.create {"rect": [79.37007874015748, 3135.1181102362207, 300.4724409448819, 3356.2204724409453], "shape": "ellipse", "content": "graphic"}
+file.place {"path": "/home/mark/Projects/msc-thesis-poster/poster/assets/me.png"}
+object.fit {"mode": "fillProportionally"}
+object.stroke {"swatch": "Gold", "weight": 6}
+frame.create {"rect": [345.82677165354335, 3163.464566929134, 1615.748031496063, 3225.826771653544], "content": "text", "text": "Talk to me, or help me find a PhD scholarship", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "FootBig"}
+frame.create {"rect": [345.82677165354335, 3234.3307086614177, 1615.748031496063, 3288.188976377953], "content": "text", "text": "mark.sorensen@nbi.ku.dk · Bordallo Group, Niels Bohr Institute", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "FootSm"}
+frame.create {"rect": [1644.0944881889766, 3146.456692913386, 2304.5669291338586, 3344.88188976378], "content": "text", "text": "[1] Romanelli et al., Meas. Sci. Technol. 28, 095501 (2017)\n[2] Romanelli et al., J. Phys.: Condens. Matter 33, 285901 (2021)\n[3] Krzystyniak et al., Phys. Scr. 98, 025707 (2023)\n[4] Arnold et al., Nucl. Instrum. Methods A 764, 156 (2014)", "caret": true}
+edit.selectAll {}
+style.paragraph.apply {"name": "Refs"}
+find.change {"find": "p(?=-cymene)", "grep": true, "caseSensitive": true, "scope": "document", "findFormat": {"paraStyle": "Body"}, "change": "", "attrs": {"fontFamily": "Inter", "fontStyle": "Italic"}}
+find.change {"find": "p(?=-cymene)", "grep": true, "caseSensitive": true, "scope": "document", "findFormat": {"paraStyle": "Bullet"}, "change": "", "attrs": {"fontFamily": "Inter", "fontStyle": "Italic"}}
+find.change {"find": "p(?=-cymene)", "grep": true, "caseSensitive": true, "scope": "document", "findFormat": {"paraStyle": "BigS"}, "change": "", "attrs": {"fontFamily": "Inter", "fontStyle": "Italic"}}
+find.change {"find": "p(?=-cymene)", "grep": true, "caseSensitive": true, "scope": "document", "findFormat": {"paraStyle": "CardQ"}, "change": "", "attrs": {"fontFamily": "Inter Display", "fontStyle": "SemiBold Italic"}}
+find.change {"find": "p(?=-cymene)", "grep": true, "caseSensitive": true, "scope": "document", "findFormat": {"paraStyle": "H3"}, "change": "", "attrs": {"fontFamily": "Inter Display", "fontStyle": "ExtraBold Italic"}}
+file.save {"path": "/home/mark/Projects/msc-thesis-poster/poster/source/poster"}
+file.exportIdml {"path": "/home/mark/Projects/msc-thesis-poster/poster/source/poster.idml"}
+file.exportPdf {"path": "/home/mark/Projects/msc-thesis-poster/poster/build/poster_trim.pdf"}
+file.exportPdf {"path": "/home/mark/Projects/msc-thesis-poster/poster/build/poster_bleed.pdf", "bleed": true}
+document.inspect {}
+font.list {}
